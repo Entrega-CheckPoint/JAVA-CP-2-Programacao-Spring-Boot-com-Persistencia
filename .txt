@@ -1,3 +1,5 @@
-Francesco M Di Benedeto RM557313
+RM557313 - Francesco M Di Benedetto
+RM554945 -  Nathalia Gomes da Silva
+
 
 https://github.com/Entrega-CheckPoint/JAVA-CP-2-Programacao-Spring-Boot-com-Persistencia
