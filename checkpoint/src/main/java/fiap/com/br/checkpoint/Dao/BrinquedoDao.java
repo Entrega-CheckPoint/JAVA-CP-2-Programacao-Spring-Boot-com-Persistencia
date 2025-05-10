@@ -1,7 +1,7 @@
-package fiap.com.br.checkpoint.Dto;
+package fiap.com.br.checkpoint.Dao;
 
 import fiap.com.br.checkpoint.Model.Brinquedo;
 
-public interface BrinquedoDto extends GenericDao<Brinquedo, Integer> {
+public interface BrinquedoDao extends GenericDao<Brinquedo, Integer> {
 
 }

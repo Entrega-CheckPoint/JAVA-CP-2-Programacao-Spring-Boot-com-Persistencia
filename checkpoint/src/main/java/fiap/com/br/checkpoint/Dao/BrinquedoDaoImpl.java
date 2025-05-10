@@ -1,4 +1,4 @@
-package fiap.com.br.checkpoint.Dto;
+package fiap.com.br.checkpoint.Dao;
 
 import fiap.com.br.checkpoint.Model.Brinquedo;
 import jakarta.persistence.EntityManager;
@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 @Transactional
 @Repository
-public class BrinquedoDaoImpl extends GenericDaoImpl<Brinquedo, Integer> implements BrinquedoDto {
+public class BrinquedoDaoImpl extends GenericDaoImpl<Brinquedo, Integer> implements BrinquedoDao {
 
     public BrinquedoDaoImpl(EntityManager em) {
         super(em);

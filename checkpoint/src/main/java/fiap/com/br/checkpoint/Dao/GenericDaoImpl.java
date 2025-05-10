@@ -1,4 +1,4 @@
-package fiap.com.br.checkpoint.Dto;
+package fiap.com.br.checkpoint.Dao;
 
 import fiap.com.br.checkpoint.Exception.IdNaoEncontradoException;
 import jakarta.persistence.EntityManager;
