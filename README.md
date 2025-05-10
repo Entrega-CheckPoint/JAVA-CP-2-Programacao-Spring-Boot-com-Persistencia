@@ -90,7 +90,7 @@ A estrutura inicial do projeto foi gerada utilizando o [**Spring Initializr**](h
 <details>
   <summary><b>Banco de dados H2</b></summary>
 
-> Adicionado após inicialização para teste 
+> Adicionado após inicialização para teste
 
 ```xml
 		<dependency>
@@ -253,3 +253,12 @@ http://localhost:8080
 **Método:** `DELETE`
 
 ![Print do DELETE](./img/DELETE.png)
+
+
+## **_Aplicação em DOCKER_**
+
+```
+https://github.com/Entrega-CheckPoint/JAVA-CP-2-Programacao-Spring-Boot-com-Persistencia-docker
+```
+
+> Aplicação pode estar fora do ar pela entrega de outro CheckPoint
